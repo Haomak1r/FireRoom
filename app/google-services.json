@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "768135247964",
+    "firebase_url": "https://chatroom-fc009-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatroom-fc009",
+    "storage_bucket": "chatroom-fc009.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768135247964:android:ab9071476c43fb6a89ce99",
+        "android_client_info": {
+          "package_name": "com.example.chatroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDePB3PhlYM-5W9gA3-I1FbzV7I9Mmk6ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768135247964:android:e8196e3bb7e17c8689ce99",
+        "android_client_info": {
+          "package_name": "com.example.fireroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDePB3PhlYM-5W9gA3-I1FbzV7I9Mmk6ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768135247964:android:d4feecabda35035589ce99",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDePB3PhlYM-5W9gA3-I1FbzV7I9Mmk6ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
